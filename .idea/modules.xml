@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jc-club-common-starter/easy-gen-code-spring-boot-starter/easy-gen-code-spring-boot-starter.iml" filepath="$PROJECT_DIR$/jc-club-common-starter/easy-gen-code-spring-boot-starter/easy-gen-code-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-subject/jc-club-application/jc-club-application.iml" filepath="$PROJECT_DIR$/jc-club-subject/jc-club-application/jc-club-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-subject/jc-club-application/jc-club-application-controller/jc-club-application-controller.iml" filepath="$PROJECT_DIR$/jc-club-subject/jc-club-application/jc-club-application-controller/jc-club-application-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-subject/jc-club-application/jc-club-application-job/jc-club-application-job.iml" filepath="$PROJECT_DIR$/jc-club-subject/jc-club-application/jc-club-application-job/jc-club-application-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-subject/jc-club-application/jc-club-application-mq/jc-club-application-mq.iml" filepath="$PROJECT_DIR$/jc-club-subject/jc-club-application/jc-club-application-mq/jc-club-application-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-auth/jc-club-auth.iml" filepath="$PROJECT_DIR$/jc-club-auth/jc-club-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-auth/jc-club-auth-api/jc-club-auth-api.iml" filepath="$PROJECT_DIR$/jc-club-auth/jc-club-auth-api/jc-club-auth-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-auth/jc-club-auth-application/jc-club-auth-application.iml" filepath="$PROJECT_DIR$/jc-club-auth/jc-club-auth-application/jc-club-auth-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-auth/jc-club-auth-application/jc-club-auth-application-controller/jc-club-auth-application-controller.iml" filepath="$PROJECT_DIR$/jc-club-auth/jc-club-auth-application/jc-club-auth-application-controller/jc-club-auth-application-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-auth/jc-club-auth-application/jc-club-auth-application-job/jc-club-auth-application-job.iml" filepath="$PROJECT_DIR$/jc-club-auth/jc-club-auth-application/jc-club-auth-application-job/jc-club-auth-application-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-auth/jc-club-auth-application/jc-club-auth-application-mq/jc-club-auth-application-mq.iml" filepath="$PROJECT_DIR$/jc-club-auth/jc-club-auth-application/jc-club-auth-application-mq/jc-club-auth-application-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-auth/jc-club-auth-common/jc-club-auth-common.iml" filepath="$PROJECT_DIR$/jc-club-auth/jc-club-auth-common/jc-club-auth-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-auth/jc-club-auth-domain/jc-club-auth-domain.iml" filepath="$PROJECT_DIR$/jc-club-auth/jc-club-auth-domain/jc-club-auth-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-auth/jc-club-auth-infra/jc-club-auth-infra.iml" filepath="$PROJECT_DIR$/jc-club-auth/jc-club-auth-infra/jc-club-auth-infra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-auth/jc-club-auth-starter/jc-club-auth-starter.iml" filepath="$PROJECT_DIR$/jc-club-auth/jc-club-auth-starter/jc-club-auth-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-subject/jc-club-common/jc-club-common.iml" filepath="$PROJECT_DIR$/jc-club-subject/jc-club-common/jc-club-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-common-starter/jc-club-common-starter.iml" filepath="$PROJECT_DIR$/jc-club-common-starter/jc-club-common-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-subject/jc-club-domain/jc-club-domain.iml" filepath="$PROJECT_DIR$/jc-club-subject/jc-club-domain/jc-club-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-gateway/jc-club-gateway.iml" filepath="$PROJECT_DIR$/jc-club-gateway/jc-club-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-gen/jc-club-gen.iml" filepath="$PROJECT_DIR$/jc-club-gen/jc-club-gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-subject/jc-club-infra/jc-club-infra.iml" filepath="$PROJECT_DIR$/jc-club-subject/jc-club-infra/jc-club-infra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jc-club-master.iml" filepath="$PROJECT_DIR$/.idea/jc-club-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-oss/jc-club-oss.iml" filepath="$PROJECT_DIR$/jc-club-oss/jc-club-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-practice/jc-club-practice.iml" filepath="$PROJECT_DIR$/jc-club-practice/jc-club-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-practice/jc-club-practice-api/jc-club-practice-api.iml" filepath="$PROJECT_DIR$/jc-club-practice/jc-club-practice-api/jc-club-practice-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-practice/jc-club-practice-server/jc-club-practice-server.iml" filepath="$PROJECT_DIR$/jc-club-practice/jc-club-practice-server/jc-club-practice-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-subject/jc-club-starter/jc-club-starter.iml" filepath="$PROJECT_DIR$/jc-club-subject/jc-club-starter/jc-club-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-subject/jc-club-subject.iml" filepath="$PROJECT_DIR$/jc-club-subject/jc-club-subject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-subject/jc-club-subject-api/jc-club-subject-api.iml" filepath="$PROJECT_DIR$/jc-club-subject/jc-club-subject-api/jc-club-subject-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jc-club-wx/jc-club-wx.iml" filepath="$PROJECT_DIR$/jc-club-wx/jc-club-wx.iml" />
+    </modules>
+  </component>
+</project>

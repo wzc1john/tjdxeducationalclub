@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/jc-club-auth/jc-club-auth-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jc-club-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jc-club-gen" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jc-club-oss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jc-club-practice/jc-club-practice-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jc-club-subject/jc-club-application/jc-club-application-controller" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jc-club-subject/jc-club-application/jc-club-application-job" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jc-club-subject/jc-club-application/jc-club-application-mq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jc-club-subject/jc-club-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jc-club-subject/jc-club-infra" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jc-club-subject/jc-club-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jc-club-subject/jc-club-subject-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jc-club-wx" charset="UTF-8" />
+  </component>
+</project>

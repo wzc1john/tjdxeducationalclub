@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/jc-club-wx/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-auth/jc-club-auth-api/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-auth/jc-club-auth-application/jc-club-auth-application-controller/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-auth/jc-club-auth-application/jc-club-auth-application-job/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-auth/jc-club-auth-application/jc-club-auth-application-mq/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-auth/jc-club-auth-application/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-auth/jc-club-auth-common/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-auth/jc-club-auth-domain/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-auth/jc-club-auth-infra/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-auth/jc-club-auth-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-common-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-gen/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-oss/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-practice/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-subject/jc-club-application/jc-club-application-controller/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-subject/jc-club-application/jc-club-application-job/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-subject/jc-club-application/jc-club-application-mq/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-subject/jc-club-application/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-subject/jc-club-common/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-subject/jc-club-domain/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-subject/jc-club-infra/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-subject/jc-club-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-subject/jc-club-subject-api/pom.xml" />
+        <option value="$PROJECT_DIR$/jc-club-subject/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
